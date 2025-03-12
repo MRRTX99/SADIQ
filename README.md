@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadiq Wahid</h1>
-<h3 align="center">An aspiring software developer from [Your College/Location]</h3>
+<h3 align="center">An aspiring developer from RV College Of Engineering </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiqwahid&label=Profile%20views&color=0e75b6&style=flat" alt="sadiqwahid" /> </p>
 
